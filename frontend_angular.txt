@@ -1,0 +1,25 @@
+Ejercicios finales Angular
+
+1. Micro Keep
+	
+	- Realizar una aplicación que permita almacenar notas. La aplicación 
+	  es un CRUD basado en la aplicación de Google Keep.
+	  
+2. Todo List
+	- Aplicación simple que permita agregar, eliminar, modificar, buscar tareas,
+	  Tambien debe indicar cuando una tarea esta completada.
+	- Mostrar tareas marcadas como publicas o privadas
+	  - Las tareas privadas solo pueden ser vistas por el usuario que las creo.
+	   
+3. Search Movies
+
+	- Crear una aplicación que liste peliculas y permita buscar una pelicula especifica
+	- Al seleccionar la pelicula se debe mostrar la información de la misma.
+	- Pueden consumir la api http://www.omdbapi.com/ la cual les permite obtener en un json el listado de peliculas
+	  y obtener la info de cada una de ellas
+
+4. Video Challenge
+    - En este reto deben crear videoclips apartir de un video los cuales se van a ir agregando a la lista de videoclips
+	- al seleccionar un videoclip este debe colocarse en la primera posición y repodrucirse en la seccion principal tipo youtube
+	- Debe tener los comandos del video (Pausar, Continuar, volumen).
+	- http://clips.vorwaerts-gmbh.de/VfE_html5.mp4, pueden utilizar esta url para el video o cargar un video propio
